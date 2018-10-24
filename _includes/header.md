@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [APCSP]({{ "/" | relative_url }})
 
-Harvard University\\
+Spire Schooly\\
 2018–2019
